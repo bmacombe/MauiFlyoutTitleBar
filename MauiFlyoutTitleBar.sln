@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiFlyoutTitleBar", "MauiFlyoutTitleBar.csproj", "{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B94D2FF-2443-4DFB-AF18-911F75BB66B4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A331F10C-4F07-48C1-BC82-48FB5DC3D478}
+	EndGlobalSection
+EndGlobal
